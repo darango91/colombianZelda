@@ -55,10 +55,10 @@ var teclas = {
 };
 
 /*********************************************
-* Funcion inicio
+* Funcion init
 *********************************************/
 
-function inicio () {
+function init () {
   var canvas = document.getElementById("campo");
   tablero = canvas.getContext("2d");
   
