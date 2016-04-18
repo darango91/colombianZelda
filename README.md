@@ -2,4 +2,4 @@
 
 
 # colombianZelda
-A wierd an exceptional version of Zelda, I'm working on it! :D
+A wierd and exceptional version of Zelda, I'm working on it! :D
